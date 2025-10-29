@@ -1,0 +1,6 @@
+@ProgressBar.Server_HostAddress = http://localhost:5163
+
+GET {{ProgressBar.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

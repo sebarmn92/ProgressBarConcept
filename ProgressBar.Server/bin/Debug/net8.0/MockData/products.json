@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Name": "ErgoFlex Wireless Mouse",
+    "Category": "Electronics",
+    "Description": "Ergonomic wireless mouse with 1600 DPI sensor and rechargeable battery.",
+    "Price": 29.99,
+    "Stock": 120,
+    "Rating": 4.6,
+    "ImageUrl": "https://example.com/images/products/ergoflex-mouse.jpg",
+    "CreatedAt": "2025-09-12T10:24:00Z",
+    "UpdatedAt": "2025-10-10T08:15:00Z"
+  },
+  {
+    "Id": 2,
+    "Name": "UltraView 27” 4K Monitor",
+    "Category": "Electronics",
+    "Description": "Crystal-clear 4K UHD display with HDR10 support and slim bezel design.",
+    "Price": 399.00,
+    "Stock": 45,
+    "Rating": 4.8,
+    "ImageUrl": "https://example.com/images/products/ultraview-27-monitor.jpg",
+    "CreatedAt": "2025-09-15T09:00:00Z",
+    "UpdatedAt": "2025-10-11T10:40:00Z"
+  },
+  {
+    "Id": 3,
+    "Name": "ProCraft Leather Journal",
+    "Category": "Stationery",
+    "Description": "Premium handmade leather journal with 200 acid-free pages.",
+    "Price": 24.50,
+    "Stock": 200,
+    "Rating": 4.4,
+    "ImageUrl": "https://example.com/images/products/procraft-journal.jpg",
+    "CreatedAt": "2025-08-22T12:10:00Z",
+    "UpdatedAt": "2025-10-05T15:25:00Z"
+  },
+  {
+    "Id": 4,
+    "Name": "HydraSmart Stainless Steel Bottle",
+    "Category": "Lifestyle",
+    "Description": "Double-insulated water bottle keeps drinks cold for 24h or hot for 12h.",
+    "Price": 18.99,
+    "Stock": 310,
+    "Rating": 4.7,
+    "ImageUrl": "https://example.com/images/products/hydrasmart-bottle.jpg",
+    "CreatedAt": "2025-07-28T14:00:00Z",
+    "UpdatedAt": "2025-09-30T09:45:00Z"
+  },
+  {
+    "Id": 5,
+    "Name": "Aurora Wireless Headphones",
+    "Category": "Audio",
+    "Description": "Noise-cancelling over-ear headphones with 30h battery life and Bluetooth 5.3.",
+    "Price": 129.00,
+    "Stock": 60,
+    "Rating": 4.9,
+    "ImageUrl": "https://example.com/images/products/aurora-headphones.jpg",
+    "CreatedAt": "2025-08-05T08:30:00Z",
+    "UpdatedAt": "2025-10-20T11:10:00Z"
+  },
+  {
+    "Id": 6,
+    "Name": "SmartLamp Touch Control LED",
+    "Category": "Home",
+    "Description": "Adjustable LED lamp with touch dimming, RGB color options, and USB charging port.",
+    "Price": 49.99,
+    "Stock": 85,
+    "Rating": 4.5,
+    "ImageUrl": "https://example.com/images/products/smartlamp-led.jpg",
+    "CreatedAt": "2025-09-02T11:00:00Z",
+    "UpdatedAt": "2025-10-01T13:30:00Z"
+  },
+  {
+    "Id": 7,
+    "Name": "ComfyCloud Memory Foam Pillow",
+    "Category": "Home",
+    "Description": "Adaptive memory foam pillow offering optimal neck support and airflow technology.",
+    "Price": 34.99,
+    "Stock": 140,
+    "Rating": 4.3,
+    "ImageUrl": "https://example.com/images/products/comfycloud-pillow.jpg",
+    "CreatedAt": "2025-08-14T16:20:00Z",
+    "UpdatedAt": "2025-10-09T09:05:00Z"
+  },
+  {
+    "Id": 8,
+    "Name": "TechPro Mechanical Keyboard",
+    "Category": "Electronics",
+    "Description": "RGB-backlit mechanical keyboard with blue switches and detachable wrist rest.",
+    "Price": 89.99,
+    "Stock": 75,
+    "Rating": 4.8,
+    "ImageUrl": "https://example.com/images/products/techpro-keyboard.jpg",
+    "CreatedAt": "2025-09-09T10:00:00Z",
+    "UpdatedAt": "2025-10-12T14:45:00Z"
+  },
+  {
+    "Id": 9,
+    "Name": "EcoGrip Yoga Mat",
+    "Category": "Sports",
+    "Description": "Non-slip eco-friendly yoga mat with superior grip and cushioning.",
+    "Price": 39.95,
+    "Stock": 180,
+    "Rating": 4.6,
+    "ImageUrl": "https://example.com/images/products/ecogrip-yoga-mat.jpg",
+    "CreatedAt": "2025-07-10T09:30:00Z",
+    "UpdatedAt": "2025-09-29T12:00:00Z"
+  },
+  {
+    "Id": 10,
+    "Name": "PowerCube USB Charging Station",
+    "Category": "Accessories",
+    "Description": "Compact multi-socket power cube with surge protection and 3 USB-A ports.",
+    "Price": 22.90,
+    "Stock": 95,
+    "Rating": 4.5,
+    "ImageUrl": "https://example.com/images/products/powercube-charging-station.jpg",
+    "CreatedAt": "2025-08-19T07:45:00Z",
+    "UpdatedAt": "2025-10-18T10:20:00Z"
+  }
+]

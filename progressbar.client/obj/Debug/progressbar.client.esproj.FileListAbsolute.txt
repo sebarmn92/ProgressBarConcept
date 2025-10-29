@@ -1,0 +1,1 @@
+D:\Development\GitHub Repositories\ProgressBar\progressbar.client\obj\Debug\progressbar.client.esproj.CoreCompileInputs.cache
